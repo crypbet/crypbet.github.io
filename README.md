@@ -1,6 +1,6 @@
 ## Under Development - Coming Soon!
 
-Welcome to Gamble Grove!
+Welcome to CrypBet!
 
 ### Important Information:
 
@@ -8,9 +8,9 @@ Welcome to Gamble Grove!
 
 We are currently working hard to bring you an exciting and secure online gambling experience. Stay tuned for the official launch!
 
-### About Gamble Grove:
+### About CrypBet:
 
-Gamble Grove is a thrilling online gambling platform that will offer a wide range of games for entertainment and potential winnings.
+CrypBet is a thrilling online gambling platform that will offer a wide range of games for entertainment and potential winnings.
 
 ### Responsible Gaming:
 
@@ -22,4 +22,4 @@ Gambling involves risk, and it's important to play responsibly. Here are some ke
 - Set limits on your gambling activity to ensure it remains an enjoyable experience.
 - If you or someone you know may have a gambling problem, please seek help.
 
-Thank you for your patience, and we look forward to welcoming you to Gamble Grove!
+Thank you for your patience, and we look forward to welcoming you to CrypBet!
